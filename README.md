@@ -34,7 +34,7 @@ This is a port of the popular Visual Studio Code Themes
 
 Currently supported (aka. tested) plugins:
 
-- [treesitter](https://github.com/nvim-treesitter/nvim-treesitter")
+- [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [hlargs](https://github.com/m-demare/hlargs.nvim)
 - [alpha-nvim](https://github.com/goolord/alpha-nvim)
 - [nvim-notify](https://github.com/rcarriga/nvim-notify)
